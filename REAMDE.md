@@ -1,4 +1,4 @@
-# Saeed Matrix Calculation
+# Matrix_package
 
 Saeed Matrix Calculation is a Python library for adding, subtracting, multiplying, inverting matrices.
 
